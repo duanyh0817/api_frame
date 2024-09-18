@@ -16,5 +16,5 @@ class Test100:
         assert 1 == 1
 if __name__ == '__main__':
     pytest.main()
-    time.sleep(12)
+    time.sleep(13)
     os.system("allure generate ./temps -o ./reports --clean")
