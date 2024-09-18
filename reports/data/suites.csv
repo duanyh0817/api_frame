@@ -1,0 +1,7 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","540","test_getDepts[caseinfo0]","testcases","Sat Sep 14 16:30:33 CST 2024","passed","Sat Sep 14 16:30:34 CST 2024","TestWebLogin","test_webLogin","",""
+"","908","test_webLogin[caseinfo0]","testcases","Sat Sep 14 16:30:30 CST 2024","passed","Sat Sep 14 16:30:31 CST 2024","TestWebLogin","test_webLogin","",""
+"","726","test_webLogin[caseinfo1]","testcases","Sat Sep 14 16:30:31 CST 2024","passed","Sat Sep 14 16:30:32 CST 2024","TestWebLogin","test_webLogin","",""
+"","410","test_webUpload[caseinfo0]","testcases","Sat Sep 14 16:30:32 CST 2024","passed","Sat Sep 14 16:30:32 CST 2024","TestWebLogin","test_webLogin","",""
+"","803","test_getUsersSegment[caseinfo0]","testcases","Sat Sep 14 16:30:33 CST 2024","passed","Sat Sep 14 16:30:33 CST 2024","TestWebLogin","test_webLogin","",""
+"","563","test_getValidOrgIds[caseinfo0]","testcases","Sat Sep 14 16:30:32 CST 2024","passed","Sat Sep 14 16:30:33 CST 2024","TestWebLogin","test_webLogin","",""

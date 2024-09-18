@@ -1,0 +1,14 @@
+-
+  feature: 所属模块
+  story: 接口名称
+  title: 用例标题
+  request:
+    method: POST
+    url: https://web.jituancaiyun.com/access/Contacts/getUsersSegment
+    json: {"count":20,
+                 "mobile":holdmobile,
+                 "updateFlag":1725787477964,
+                 "deptId":0,
+                 "orgId":holdorgId,
+                 "startIdx":0}
+  validate: null

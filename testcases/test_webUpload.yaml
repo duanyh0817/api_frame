@@ -1,0 +1,11 @@
+-
+  feature: 文件上传模块
+  story: 文件上传接口
+  title: 文件上传用例
+  request:
+    method: POST
+    url: https://web.jituancaiyun.com/sfs/webUpload/file?fileType=
+    fileType: 1
+    files:
+      media: "/Users/yy/Downloads/test.png"
+  validate: null

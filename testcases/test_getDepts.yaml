@@ -1,0 +1,11 @@
+-
+  feature: 所属模块
+  story: 接口名称
+  title: 用例标题
+  request:
+    method: POST
+    url: https://web.jituancaiyun.com/access/Contacts/getDepts
+    json: {"updateFlag":holdupdateFlag,
+                 "mobile":holdmobile,
+                 "orgId":holdorgId}
+  validate: null
